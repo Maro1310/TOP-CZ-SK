@@ -1,5 +1,9 @@
 /* --- ROOM --- */
 
+#room .room-background {
+	background: url(https://i.imgur.com/kbOA858.jpg) no-repeat !important;
+}
+
 #room .icon.icon-room {
 	background: url(https://i.imgur.com/7ALM6Fm.png);
 }
