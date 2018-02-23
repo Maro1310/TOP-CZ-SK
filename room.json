@@ -2,7 +2,7 @@
     "room":                 "♪ TOP CZ/SK ♪",
     "author":               "Máro",
     "icon":                 "https://i.imgur.com/ZVPIbJ8.png",
-    "css":                  "https://cdn.rawgit.com/Maro1310/top-cz-sk/047793fe/style.css",
+    "css":                  "https://rawgit.com/Maro1310/top-cz-sk/master/style.css",
     "rules": {
         "allowAutorespond": true, 
         "allowAutowoot":    true,
