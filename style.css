@@ -8,74 +8,12 @@
 	background: url(https://i.imgur.com/ZVPIbJ8.png);
 }
 
-.icon {
+#room .icon {
 	background-image: url(https://i.imgur.com/coWRti8.png); 
 }
 
-
-
-/*room icons*/
-.icon.icon-site-logo {
-    background: url("https://dl.dropboxusercontent.com/s/5pjgp21ryj2zn63/plug.png") repeat scroll 0% 0% transparent !important;
-    background-position: -5px 0px;
-}
-
-i.icon.icon-current-dj {
-    background-image: url("https://dl.dropboxusercontent.com/s/fzvi9h23qg069ex/music.png") !important; 
-    background-position: 1px 0px;
-}
-
-/*badges*/
-/*custom badges*/
-[data-cid^="4412452-"] i.bdg {
-    background: url("https://dl.dropboxusercontent.com/s/b1fyr126dzdlc9x/wolf.png") !important;
-}
-[data-cid^="5751399-"] i.bdg {
-    background: url("https://dl.dropboxusercontent.com/s/l71tm5nm30xjrbl/Cube.png") !important;
-}
-/*changed badges*/
-i.bdg.bdg-admin-g.g {
-    background: url("https://dl.dropboxusercontent.com/s/vlzw1vcc86s7gfs/Admin.png") !important;
-}
-i.bdg.bdg-bt-g.g {
-    background: url("https://dl.dropboxusercontent.com/s/x8xbmulox98tp2k/B1.png") !important;
-}
-i.bdg.bdg-ea-g.g {
-    background: url("https://dl.dropboxusercontent.com/s/l81b7c4w86z9r5q/B2.png") !important;
-}
-i.bdg.bdg-og-g.g {
-    background: url("https://dl.dropboxusercontent.com/s/abzetqh5iyn0y7z/B3.png") !important;
-}
-i.bdg.bdg-ss-g.g {
-    background: url("https://dl.dropboxusercontent.com/s/gambmvehgv5xrr6/B4.png") !important;
-}
-/*classic badges*/
-i.bdg.bdg-admin-o01.o {
-    background: url("https://dl.dropboxusercontent.com/s/rk9h46dqkvjlqz1/Admin%20badge.gif") !important;
-}
-i.bdg.bdg-animal-o05.o {
-    background: url("https://dl.dropboxusercontent.com/s/3e5mmxroabvao5t/Snake.gif") !important;
-}
-i.bdg.bdg-animal-o10.o {
-    background: url("https://dl.dropboxusercontent.com/s/ol90kvwe7am1w8m/BoxDog.gif") !important;
-}
-i.bdg.bdg-warrior-o02.o {
-    background: url("https://dl.dropboxusercontent.com/s/sjeyyk931xfbta9/NinjaF.gif") !important;
-}
-/*Large badge Fix*/
-i.bdg.large.bdg-admin-g.g,
-i.bdg.large.bdg-bt-g.g,
-i.bdg.large.bdg-ea-g.g,
-i.bdg.large.bdg-og-g.g,
-i.bdg.large.bdg-ss-g.g,
-i.bdg.large.bdg-admin-o01.o ,
-i.bdg.large.bdg-animal-o05.o,
-i.bdg.large.bdg-warrior-o02.o,
-i.bdg.large.bdg-animal-o10.o{
-    width: 30px;
-    height: 30px;
-	position: relative !important;
-    top: 55px !important;
+#room .icon.icon-current-dj {
+    background-image: url(https://i.imgur.com/w6cmnXs.png); 
 }
 
 /*chat*/
