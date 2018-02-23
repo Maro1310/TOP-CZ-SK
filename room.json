@@ -2,7 +2,7 @@
 {
     "room": "♪ TOP CZ/SK ♪",
     "author": "Máro",
-    "css": "https://cdn.rawgit.com/Maro1310/top-cz-sk/d905b406/style.css",
+    "css": "https://cdn.rawgit.com/Maro1310/top-cz-sk/9bff121d/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -16,8 +16,8 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host": "#5990ff",
-        "cohost": "#5990ff",
+        "host": "#58f",
+        "cohost": "#58f",
         "manager": "#e15",
         "bouncer": "#f45",
         "rdj": "#f95",
