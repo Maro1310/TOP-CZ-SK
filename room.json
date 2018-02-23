@@ -2,7 +2,7 @@
 {
     "room": "♪ TOP CZ/SK ♪",
     "author": "Máro",
-    "css": "https://github.com/Maro1310/top-cz-sk/blob/master/style.css",
+    "css": "https://cdn.rawgit.com/Maro1310/top-cz-sk/ff707178/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
