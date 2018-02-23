@@ -2,7 +2,7 @@
 {
     "room": "♪ TOP CZ/SK ♪",
     "author": "Máro",
-    "css": "https://cdn.rawgit.com/Maro1310/top-cz-sk/6031e444/style.css",
+    "css": "https://cdn.rawgit.com/Maro1310/top-cz-sk/ad5879a7/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -13,25 +13,8 @@
         "allowShowingMehs": false,
         "forceSmartVote": false
     },
-    "ccc": {
-        "host": "#58f",
-        "cohost": "#58f",
-        "manager": "#e15",
-        "bouncer": "#f45",
-        "rdj": "#f95",
-        "subscriber": "#e6cc26",
-        "silversubscriber": "#dc24d9",
-        "user": "#00bf4f"
-    },
     "images": {
         "playback": "https://i.imgur.com/5VnGFEU.png",
-        "host": "https://i.imgur.com/6x7jEuw.png",
-        "cohost": "https://i.imgur.com/6x7jEuw.png",
-        "manager": "https://i.imgur.com/iYcWKxe.png",
-        "bouncer": "https://i.imgur.com/nC6jqPF.png",
-        "rdj": "https://i.imgur.com/rc1mU8E.png",
-        "subscriber": "https://i.imgur.com/CZYaOrd.png",
-        "silversubscriber": "https://i.imgur.com/qgJInoK.png"
     },
     "emotes": {
     	"narval": "https://i.imgur.com/h43fCGa.png",
