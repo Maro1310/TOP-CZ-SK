@@ -2,7 +2,7 @@
 {
     "room": "♪ TOP CZ/SK ♪",
     "author": "Máro",
-    "css": "https://cdn.rawgit.com/Maro1310/top-cz-sk/ff707178/style.css",
+    "css": "https://cdn.rawgit.com/Maro1310/top-cz-sk/6031e444/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -24,7 +24,7 @@
         "user": "#00bf4f"
     },
     "images": {
-        "playback": "https://i.imgur.com/mUruyLq.png",
+        "playback": "https://i.imgur.com/5VnGFEU.png",
         "host": "https://i.imgur.com/6x7jEuw.png",
         "cohost": "https://i.imgur.com/6x7jEuw.png",
         "manager": "https://i.imgur.com/iYcWKxe.png",
