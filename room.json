@@ -13,23 +13,8 @@
         "allowShowingMehs": true,
         "forceSmartVote": false
     },
-    "ccc": {
-        "admin": null,
-        "ambassador": null,
-        "host": "#58f",
-        "cohost": "#58f",
-        "manager": "#e15",
-        "bouncer": "#f45",
-        "rdj": "#f95",
-        "subscriber": "#e6cc26",
-        "silversubscriber": "#dc24d9",
-        "friend": null,
-        "user": "#00bf4f"
-    },
     "images": {
-        "playback": "https://i.imgur.com/LO6AmiK.png",
-        "subscriber": "https://i.imgur.com/CZYaOrd.png",
-        "silversubscriber": "https://i.imgur.com/qgJInoK.png"
+        "playback": "https://i.imgur.com/LO6AmiK.png"
     },
     "emotes": {
         "chnu": "https://i.imgur.com/nbYQOWx.png",
