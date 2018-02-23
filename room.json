@@ -1,8 +1,8 @@
 {
     "room":                 "♪ TOP CZ/SK ♪",
     "author":               "Máro",
-    "icon":                 "https://i.imgur.com/iNYvJg7.png",
-    "css":                  "https://cdn.rawgit.com/Maro1310/top-cz-sk/eeec3e4b/top.css",
+    "icon":                 "https://i.imgur.com/ZVPIbJ8.png",
+    "css":                  "https://cdn.rawgit.com/Maro1310/top-cz-sk/6387db18/style.css",
     "rules": {
         "allowAutorespond": true, 
         "allowAutowoot":    true,
